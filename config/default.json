@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://phi123:phi123@contactkeeper.nziye.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
